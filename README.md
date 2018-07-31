@@ -6,7 +6,7 @@ This repo contains Turkish General Election (Presidential and Parliamentary) 201
 - `YSK-CB-18.csv` and `YSK-MV-18.csv`: All of the `180065` ballot boxes (within `1082` precincts) combined.
 - `YSK-MVCB-18.csv`: All results combined (contains almost all the info in those `2164` raw files; good for any text editor or statistical program other than MS Excel*).
 
-Column descriptions for `YSK-MVCB-18.csv` file:
+There are 31 columns in the `YSK-MVCB-18.csv` file:
 - **BALLOT BOX IDENTIFIER:** İL ADI, İLÇE ADI, MAHALLE/KÖY, SANDIK NO
 - **MV RESULTS:** SEÇMEN SAYISI MV, OY KULLANAN SEÇMEN SAYISI MV, İTİRAZSIZ GEÇERLİ OY SAYISI, İTİRAZLI GEÇERLİ OY SAYISI, GEÇERLİ OY TOPLAMI MV, GEÇERSİZ OY TOPLAMI MV, AK PARTİ, MHP, HÜDA PAR, VATAN PARTİSİ, HDP, CHP, SAADET, İYİ PARTİ, CUMHUR İTTİFAKI, MİLLET İTTİFAKI, BAGIMSIZ
 - **CB RESULTS:** SEÇMEN SAYISI CB, OY KULLANAN SEÇMEN SAYISI CB, GEÇERLİ OY TOPLAMI CB, GEÇERSİZ OY TOPLAMI CB, MUHARREM İNCE, MERAL AKŞENER, RECEP TAYYİP ERDOĞAN, SELAHATTİN DEMİRTAŞ, TEMEL KARAMOLLAOĞLU, DOĞU PERİNÇEK
