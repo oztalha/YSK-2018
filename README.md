@@ -1,6 +1,6 @@
 # YSK-2018
 
-This repo contains Turkish General Election (Presidential and Parliamentary) 2018 ballot box level results scraped from <ysk.gov.tr>.
+This repo contains Turkish General Election (Presidential and Parliamentary) 2018 ballot box level results scraped from <http://ysk.gov.tr>.
 
 - `CB-2018.zip` and `MV-2018.zip`: All the raw files downloaded (N=`1082` precincts).
 - `YSK-CB-18.csv` and `YSK-MV-18.csv`: All of the `180065` ballot boxes (within `1082` precincts) combined.
